@@ -1,0 +1,23 @@
+.index{
+    height: calc(100vh - 29px);
+    width: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.index ul{
+    padding: 0;
+    list-style: none;
+    background-color: #f086d55e;
+    padding: 50px;
+}
+
+.index a{
+    color: #fff;
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+   
+}
+
